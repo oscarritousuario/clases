@@ -1,0 +1,8 @@
+# Excluir carpetas de proyectos Java
+mi-proyecto-java.idea
+mi-proyecto-java.iml
+mi-proyecto-javaout
+
+# Excluir archivos compilados
+.class
+.jar
