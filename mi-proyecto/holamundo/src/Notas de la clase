@@ -1,0 +1,6 @@
+Abstract class animal sire para crear clases
+abstractas, estas significan que solo pueden
+heredar y no pueden instanciarse debido a que
+son abstractas
+
+super, para referirse al constructor
